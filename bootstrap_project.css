@@ -1,0 +1,96 @@
+/* .proje{
+  background-color: black;
+} */
+.pro{
+  background-color: #17a2b8;
+}
+.proj{
+  background-color: #6c757d;
+}
+
+
+.clot{
+  font-style: oblique;
+}
+ol li{
+  color: black;
+
+}
+button {
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+  background-color: blue;
+}
+
+h6{
+  font-style: oblique;
+  font-family:cursive;
+}
+h1{
+  font-family: monospace;
+  border: 1px solid black
+  /* color:#B2DBBF; */
+}
+#jumb{
+  background: #fd7e14;
+}
+#cont{
+  background: #fd7e14;
+  padding:30px;
+}
+h6{
+  color:blue;
+}
+#conmarg{
+/* padding: 50px */
+}
+#sign{
+  background: #007bff;
+}
+@media (min-width: 500px) {
+  .proje{
+    background-color: black;
+  }
+}
+
+@media (max-width: 600px) {
+  .proje{
+    background-color: white;
+  }
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+table {
+  border: 2px solid black
+color:blue;
+  width: 1000px;
+  height:250px;
+  margin: 30px;
+  padding:50px;
+  text-align: center;
+}
+th, td {
+  border: 1px solid black
+
+}
+th{
+  background-color: lightgray;
+}
+#price{
+  background-color: #6610f2;
+}
+#cloth{
+  background-color: #28a745;
+}
+#click{
+  color: #007bff;
+}
+.contact{
+  text-align: right;
+}
+.email{
+  text-align: right;
+}
