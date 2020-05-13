@@ -86,11 +86,14 @@ th{
   background-color: #28a745;
 }
 #click{
-  color: #007bff;
+color:blue;
 }
 .contact{
   text-align: right;
 }
 .email{
   text-align: right;
+}
+#clickes{
+color:blue;
 }
